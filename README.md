@@ -34,4 +34,4 @@ To do this, follow these steps:
 ## Adding the Assets to Your Blueprint
 When creating a BP_Character, you need to select your BlasterCharacter.cpp as the Parent Class. All needed declarations and imports can be found in this repository. Check your Class Settings to ensure this is the case. If everything is compiled correctly, you should be able to assign your mapping context and your actions to the corresponding slots.
 
-![Asset selection in Editor](assign-in-editor.png)
+![Asset selection in Editor](https://github.com/zwieb4ck/BlasterCharacterEhancedInputSystem/blob/master/assing-in-editor.png?raw=true)
